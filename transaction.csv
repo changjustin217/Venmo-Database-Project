@@ -1,0 +1,16 @@
+transactionId,amount,description,time,location,like,comment,payerId,receiverId
+12345678,25.27,Pizza,9/3/16 5:21,"Rome, Italy",1,(10001) Thanks! --- (10000) No Problem!!!,10000,10001
+91982793,500,Clash of Clans Army,12/1/16 12:14,,0,,10001,10008
+17820344,5,I love candy crush,6/27/15 14:14,,1,,10002,10009
+92831742,999.99,Stocking up on toilet papaer,7/18/16 16:00,,1,,10003,10005
+20923713,3,Fun night out,2/10/15 23:59,,0,,10004,10002
+18201278,7.25,Candies,4/1/16 12:00,,0,,10000,10009
+40001977,40,Fortresses,11/30/16 3:45,"Doha, Qatar",5,(10000) Awesome Product,10000,10008
+10927764,4.5,Pumpkin Spice Latte,10/4/15 12:24,,0,,10002,10007
+29346586,15.55,God bless Amazon,8/13/15 12:14,"New York, NY",1,,10003,10006
+35679187,14.92,Favor,6/6/16 5:07,,1,(10002) Always a pleasure with you.,10001,10002
+87654219,18.86,Something basic,1/22/16 1:02,,2,,10001,10007
+54120384,20.12,Apple Cider,12/25/15 22:22,"North Pole, Greenland",3,(10004) Merry Christmas!,10004,10003
+77777777,65,Dinner Date,11/24/16 19:19,"Pittsburgh, PA",1,(10001) You forgot about me! --- (10003) Oh no! Sorry Kevin.,10003,10000
+12922222,42,Shoes,9/12/16 15:24,"Pittsburgh, PA",0,,10002,10006
+78134444,31.57,Don't judge me,4/18/15 17:16,"Pittsburgh, PA",0,,10000,10008
